@@ -1,13 +1,14 @@
 {
+	
 	"name":"Oui la France",
-    "description":"I Love Rutu",
-    "image":"image.png",
-    "date": 633885941000,
- 	"symbol": "",
+    	"description":"I Love Rutu",
+    	"image":"image.png",
+    	"date": 633885941000,
+  	"symbol": "",
  	"seller_fee_basis_points": 0,
-    "collection": {
-       "name": "My NFT Collection2",
-       "family": "My Family"
+    	"collection": {
+       	"name": "My NFT Collection2",
+       	"family": "My Family"
      },
 	"properties": {
        "files": [
